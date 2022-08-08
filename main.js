@@ -70,7 +70,6 @@ const App = () => {
 
   return (
     <div className="container h-100">
-      <h1 className="text-center">Markdown previewer</h1>
       <div className="row mb-2">
         <div className="col">
           <div className="window">
